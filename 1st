@@ -1,1 +1,4 @@
 
+1)repo init -u ssh://git@openlinux2.amlogic.com/o-amlogic/platform/manifest.git -b o-amlogic
+2)repo init -m o-amlogic_openlinux-20171215-patch20180412.xml
+3)repo sync
